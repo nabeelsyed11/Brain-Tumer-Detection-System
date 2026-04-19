@@ -83,43 +83,46 @@ pip install -r requirements.txt
 # Run the application
 streamlit run app.py
 ```
-📊 Model Details
+## 📊 Model Details
+
 Model Type: Convolutional Neural Network (CNN)
 Input: MRI Brain Images
 Output: Binary Classification (Tumor / No Tumor)
 Framework: TensorFlow / Keras
-🎯 Use Cases
+
+## 🎯 Use Cases
 AI-based medical assistance (preliminary screening)
 Academic and engineering projects
 AI/ML research and experimentation
 Healthcare tech demonstrations
-⚠️ Disclaimer
+
+## ⚠️ Disclaimer
 
 This project is intended for educational and research purposes only.
 It is not a substitute for professional medical diagnosis.
 
-📌 Future Improvements
+## 📌 Future Improvements
 Multi-class tumor classification
 Improved dataset and accuracy
 Explainable AI (Grad-CAM visualization)
 Mobile application version
 Integration with healthcare systems
-👨‍💻 Author
+## 👨‍💻 Author
 
 Syed Nabeel Ahmed
 Engineer | AI Developer | Self Learner
 
-⭐ Support
+## ⭐ Support
 
 If you found this project useful:
 
-⭐ Star the repository
-🍴 Fork it
-🤝 Contribute
+## ⭐ Star the repository
+## 🍴 Fork it
+## 🤝 Contribute
 
 If you want next level upgrade, I can:
 - Add **badges (accuracy, Python version, license, etc.)**
 - Create a **professional GitHub banner**
 - Optimize it for **recruiter impact**
 
-Just say 👍
+## Just say 👍
