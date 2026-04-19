@@ -82,6 +82,7 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+```
 📊 Model Details
 Model Type: Convolutional Neural Network (CNN)
 Input: MRI Brain Images
